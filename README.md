@@ -8,3 +8,10 @@ Developed a video recording console application using Open CV in CPP
 
 <a href="https://github.com/Manav1906/Recording-console-application_CPP/blob/main/VR-app.exe" download="VR-app.exe"><b><I>Download link for .exe file</I></b></a>
 
+For Windows you can directly click the .exe file you downloaded from above link to run the APP.
+For Linux You should Use "Wine"
+
+Execute Following Commands:
+sudo apt-get install wine
+wine dir/CPP_APP.exe
+Replace "dir" with the path of directory in which you downloaded the APPLICATION.
