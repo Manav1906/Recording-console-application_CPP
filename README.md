@@ -6,3 +6,5 @@ Developed a video recording console application using Open CV in CPP
 - Added the gaussian filter to reduce the noise on edges.
 - It asks for the path where you want to store the video and shows the list of all such recorded videos.
 
+** To Download the .exe file use this link<a href="" download="CPP_APP.exe"><b><I>Download link for .exe file</I></b></a>
+
